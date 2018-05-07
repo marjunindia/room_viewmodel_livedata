@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/roomexample.iml" filepath="$PROJECT_DIR$/roomexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room_viewmodel_livedata.iml" filepath="$PROJECT_DIR$/room_viewmodel_livedata.iml" />
+      <module fileurl="file://D:\Github Mine\room_viewmodel_livedata\roomexample.iml" filepath="D:\Github Mine\room_viewmodel_livedata\roomexample.iml" />
     </modules>
   </component>
 </project>
